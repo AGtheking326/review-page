@@ -1,5 +1,4 @@
-Voices of Experience
-
+                                                                                        **Voices of Experience**
 A React testimonial slider showcasing user reviews with smooth navigation and dark mode support.
 
 live Link-> https://review-page-wqc6.vercel.app/
